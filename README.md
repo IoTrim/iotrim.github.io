@@ -6,7 +6,8 @@ This site contains a set of non-required destinations list from 31 consumer IoT 
 
 Initial results of our paper can be found at https://arxiv.org/abs/2003.07133
 
-![GitHub Logo](https://github.com/IoTrim/iotrimlist/blob/master/iotrim.png)
+<a href="https://github.com/IoTrim/iotrimlist/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/iotrim.png" width="500"/>
+
 
 ## IoT devices functionality
 
