@@ -22,3 +22,5 @@ The list contains 4 columns:
      - Support party: destination that is not a first party and is responsible for providing remote computation.
      - Third party: destination that is not a First party or a Support party. 
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
+
+https://github.com/IoTrim/iotrimlist
