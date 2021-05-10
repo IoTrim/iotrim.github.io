@@ -44,6 +44,6 @@ booktitle={Proc. of the Privacy Enhancing Technologies Symposium (PETS)},
 year={2021}
 }
 
-* Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
+* Our team has recently won one of the TOP 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> Development Stream, receiving a generous gift to develop a prototype for the blocking system, IoTrimmer.  
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
