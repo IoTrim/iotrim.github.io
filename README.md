@@ -18,6 +18,9 @@ The list contains 4 columns:
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
 
 ## IoTrigger and IoTrimmer
+
+<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/system.png" width="1000"/>
+
 We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoTrigger)</a> and the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that use our method for building the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a>, and use it to block non-essential traffic.
 
 ## NEWS
