@@ -21,7 +21,7 @@ The list contains 4 columns:
 We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoTrigger)</a> and the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that use our method for building the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a>, and use it to block non-essential traffic.
 
 ## NEWS
-* Our paper “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
+* Our paper, describing the methodology and results, “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
 <img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/>
 
