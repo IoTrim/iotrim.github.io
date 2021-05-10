@@ -38,12 +38,18 @@ Download Full Text: Arxiv
 
 Citation:
 @inproceedings{mandalari-pets21,
+
 title={{Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic}},
+
 author={Mandalari, Anna Maria and Dubois, Daniel J.and Kolcun, Roman and  and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
+
 booktitle={Proc. of the Privacy Enhancing Technologies Symposium (PETS)},
+
 year={2021}
+
 }
 
-* Our team has recently won one of the TOP 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> Development Stream, receiving a generous gift to develop a prototype for the blocking system, IoTrimmer.  
+
+* Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
