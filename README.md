@@ -28,7 +28,9 @@ We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoT
 <u>About this publication</u>
 
 Title: Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic
+
 Authors: Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London), and David Choffnes (Northeastern University)
+
 Download Full Text: Arxiv
 
 Citation:
