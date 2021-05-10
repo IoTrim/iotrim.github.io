@@ -1,16 +1,11 @@
-# iotrim.github.io
-IoTrim Project page
-
-# IoTrim List
-This site contains a set of non-required destinations list from 31 consumer IoT devices. The list is created using a methodology for determining non-required destinations by automatically executing IoT device functions and determining the execution outcome while blocking selected destinations.
-
-Initial results of our paper can be found at https://arxiv.org/abs/2003.07133
+# IoTrimmer Project 
+This site contains a <a href="https://github.com/IoTrim/iotrimlist">set of non-required destinations list</a> from 31 consumer IoT devices and the software for producing the list. The list is created using a methodology for determining non-required destinations by automatically executing IoT device functions and determining the execution outcome while blocking selected destinations.
 
 <a href="https://github.com/IoTrim/iotrimlist/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/iotrim.png" width="500"/></a>
 
-## IoT devices functionality
+## IoTrim
 
-IoT devices offer multiple types of functionality; however, for this list, we select only the main function for every IoT device under test so that we can have more coverage by devices rather than by functionality. However, from preliminary experiments we have seen that most devices use the same destinations for different functions. 
+IoT devices offer multiple types of functionality; however, for this list, we select only the main functions for every IoT device under test. However, from preliminary experiments we have seen that most devices use the same destinations for different functions. 
 
 The list contains 4 columns: 
 
@@ -24,3 +19,12 @@ The list contains 4 columns:
 
 ## IoTrigger and IoTrimmer
 We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoTrigger)</a> and the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that use our method for building the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a>, and use it to block non-essential traffic.
+
+## NEWS
+* Our paper “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
+
+<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/>
+
+* Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
+
+<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/>
