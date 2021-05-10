@@ -23,8 +23,8 @@ We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoT
 ## NEWS
 * Our paper, describing the methodology and results, “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
-<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/>
+<a href="https://petsymposium.org/2021"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/></a>
 
 * Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
-<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/>
+<a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
