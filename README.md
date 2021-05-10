@@ -25,6 +25,20 @@ We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoT
 
 <a href="https://petsymposium.org/2021"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/></a>
 
+<u>About this publication</u>
+
+Title: Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic
+Authors: Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London), and David Choffnes (Northeastern University)
+Download Full Text: Arxiv
+
+Citation:
+@inproceedings{mandalari-pets21,
+title={{Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic}},
+author={Mandalari, Anna Maria and Dubois, Daniel J.and Kolcun, Roman and  and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
+booktitle={Proc. of the Privacy Enhancing Technologies Symposium (PETS)},
+year={2021}
+}
+
 * Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
