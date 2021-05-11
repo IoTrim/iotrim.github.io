@@ -38,10 +38,15 @@ Download Full Text: Arxiv
 
 Citation:
 @inproceedings{mandalari-pets21,
+
 title={Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic},
+
 author={Mandalari, Anna Maria and Dubois, Daniel J.and Kolcun, Roman and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
+
 booktitle={Proc. of the Privacy Enhancing Technologies Symposium (PETS)},
+
 year={2021}
+
 }
 
 
