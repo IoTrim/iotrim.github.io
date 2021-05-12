@@ -34,7 +34,7 @@ Title: Blocking without Breaking: Identification and Mitigation of Non-Essential
 
 Authors: Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London), and David Choffnes (Northeastern University)
 
-Download Full Text: Arxiv
+Download Full Text (<a href="https://arxiv.org/abs/2105.05162">PDF</a>)
 
 Citation:
 @inproceedings{mandalari-pets21,
