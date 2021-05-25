@@ -30,7 +30,7 @@ Our team has extensive experience in the area of privacy for Internet of Things 
  
 * <a href="https://www.imperial.ac.uk/people/anna-maria.mandalari">Dr Anna Maria Mandalari</a> is a Research Associate at Imperial College, her research interests are related to IoT, privacy, large-scale Internet measurements, Internet measurement platforms, middleboxes and new Internet protocols. 
 
-* <a href="https://david.choffnes.com/">Professor David Choffnes</a> is Associate Professor at Northeastern University, member of the Cybersecurity and Privacy Institute, and affiliate faculty at the Center for Law, Innovation and Creativity (CLIC). His research is primarily in the areas of distributed systems and networking, with a recent focus on privacy, security, transparency, and mobile systems.
+* <a href="https://david.choffnes.com/">Professor David Choffnes</a> is an Associate Professor at Northeastern University, member of the Cybersecurity and Privacy Institute, and affiliate faculty at the Center for Law, Innovation and Creativity (CLIC). His research is primarily in the areas of distributed systems and networking, with a recent focus on privacy, security, transparency, and mobile systems.
 
 * <a href="https://www.khoury.northeastern.edu/people/daniel-j-dubois/">Dr Daniel Dubois</a> is an Associate Research Scientist at Northeastern University, his research is rooted in software engineering, with a current focus on IoT privacy. He maintains the Mon(IoT)r Lab testbed, which provides an IoT monitoring infrastructure to four research institutions.  
 
