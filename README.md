@@ -23,6 +23,18 @@ The list contains 4 columns:
 
 We release the testing system <a href="https://github.com/IoTrim/IoTrigger">(IoTrigger)</a> and the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that use our method for building the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a>, and use it to block non-essential traffic.
 
+## TEAM
+Our team has extensive experience in the area of privacy for Internet of Things (IoT) devices. To date, the software artifacts of our research team have produced reports and datasets that informed additional research, policy debates, and regulators. During the past 2 years, we worked on the problem of modeling and evaluating adaptation strategies based on measurements techniques for IoT devices. All the research experience above resulted in peer-reviewed papers, published in top tier scientific conferences and funded research projects.
+
+* <a href="https://haddadi.github.io/">Professor Hamed Haddadi</a> is an Associate Professor in Human-Centred Systems and the Director of Postgraduate Studies at the Dyson School of Design Engineering, at the Faculty of Engineering at Imperial College London. He is a Security Science Fellow of the Institute for Security Science and Technology and of the Data Science Institute. He is also a Visiting Professor at Brave Software where he works on developing privacy-preserving protocols.
+ 
+* <a href="https://www.imperial.ac.uk/people/anna-maria.mandalari">Dr Anna Maria Mandalari</a> is a Research Associate at Imperial College, her research interests are related to IoT, privacy, large-scale Internet measurements, Internet measurement platforms, middleboxes and new Internet protocols. 
+
+* <a href="https://david.choffnes.com/">Professor David Choffnes</a> is associate professor at Northeastern University, member of the Cybersecurity and Privacy Institute, and affiliate faculty at the Center for Law, Innovation and Creativity (CLIC). His research is primarily in the areas of distributed systems and networking, with a recent focus on privacy, security, transparency, and mobile systems.
+
+* <a href="https://www.khoury.northeastern.edu/people/daniel-j-dubois/">Dr Daniel Dubois</a> is an Associate Research Scientist at Northeastern University, his research is rooted in software engineering, with a current focus on IoT privacy. He maintains the Mon(IoT)r Lab testbed, which provides an IoT monitoring infrastructure to four research institutions.  
+
+
 ## NEWS
 * Our paper, describing the methodology and results, “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
@@ -53,3 +65,5 @@ year={2021}
 * Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
+
+
