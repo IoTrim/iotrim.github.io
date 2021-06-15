@@ -36,13 +36,13 @@ Our team has extensive experience in the area of privacy for Internet of Things 
 
 
 ## NEWS
-* Our paper, describing the methodology and results, “Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
+* Our paper, describing the methodology and results, “Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
 <a href="https://petsymposium.org/2021"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/></a>
 
 <u>About this publication</u>
 
--- Title: Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic
+-- Title: Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic
 
 -- Authors: Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London), and David Choffnes (Northeastern University)
 
@@ -51,7 +51,7 @@ Our team has extensive experience in the area of privacy for Internet of Things 
 -- Citation:
 @inproceedings{mandalari-pets21,
 
-title={Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic},
+title={Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic},
 
 author={Mandalari, Anna Maria and Dubois, Daniel J.and Kolcun, Roman and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
 
