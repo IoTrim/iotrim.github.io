@@ -23,7 +23,7 @@ The list contains 4 columns:
 
 We release the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that uses the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a> to block non-essential traffic.
 
-IoTrigger is the testing system, our method for building the required and non-required destinations list 
+IoTrigger is the testing system, our method for building the required and non-required destinations list (see the <a href="https://arxiv.org/abs/2105.05162">pre-print paper.</a>)
 
 ## TEAM
 Our team has extensive experience in the area of privacy for Internet of Things (IoT) devices. To date, the software artifacts of our research team have produced reports and datasets that informed additional research, policy debates, and regulators. During the past 2 years, we worked on the problem of modeling and evaluating adaptation strategies based on measurements techniques for IoT devices. All the research experience above resulted in peer-reviewed papers, published in top tier scientific conferences and funded research projects.
