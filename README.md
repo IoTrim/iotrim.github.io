@@ -17,7 +17,7 @@ The list contains 4 columns:
      - Third party: destination that is not a First party or a Support party. 
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
 
-## IoTrigger and IoTrimmer
+## IoTrimmer and IoTrigger
 
 <img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/system.png" width="1000"/>
 
