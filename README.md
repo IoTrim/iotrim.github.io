@@ -1,12 +1,15 @@
-# IoTrimmer Project 
+# IoTrim
+Consumer IoT devices come with convenient services. However, since there are few strict privacy/security regulations and standards in the IoT context, device abuse is increasingly becoming a major privacy/security issue for consumers worldwide.
+IoTrim, automatically monitors and blocks non-essential network activities, and identifies IoT devices’ information exposure and security threats, using privacy-preserving AI techniques to build insights and behavioral models from devices.
+IoTrim components run on the home router, and can be controlled through a smartphone app, a computer or the user’s voice (It offers easy-to-use, plug and play protection). 
+IoTrim prevents violations of individuals’ privacy by intercepting and blocking information exposure to third-party analytics and service providers, most of which are collecting personal data unbeknownst to the user and potentially breaking privacy regulations such as the GDPR and CCPA.
+
+## IoTrim List
+
 This site contains a <a href="https://github.com/IoTrim/iotrimlist">set of non-required destinations list</a> from 31 consumer IoT devices and the software for producing the list. The list is created using a methodology for determining non-required destinations by automatically executing IoT device functions and determining the execution outcome while blocking selected destinations.
-
-<a href="https://github.com/IoTrim/iotrimlist/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/iotrim.png" width="500"/></a>
-
-## IoTrim
-
 IoT devices offer multiple types of functionality; however, for this list, we select only the main functions for every IoT device under test. However, from preliminary experiments we have seen that most devices use the same destinations for different functions. 
 
+<a href="https://github.com/IoTrim/iotrimlist/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/iotrim.png" width="500"/></a>
 The list contains 4 columns: 
 
 * device: the device under test
@@ -16,14 +19,6 @@ The list contains 4 columns:
      - Support party: destination that is not a first party and is responsible for providing remote computation.
      - Third party: destination that is not a First party or a Support party. 
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
-
-## IoTrimmer and IoTrigger
-
-<img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/system.png" width="1000"/>
-
-We release the blocking system <a href="https://github.com/IoTrim/IoTrimmer">(IoTrimmer)</a> that uses the required and non-required destinations list <a href="https://github.com/IoTrim/iotrimlist">(IoTrim list)</a> to block non-essential traffic.
-
-IoTrigger is the testing system, our method for building the required and non-required destinations list (see the <a href="https://arxiv.org/abs/2105.05162">pre-print paper.</a>)
 
 ## TEAM
 Our team has extensive experience in the area of privacy for Internet of Things (IoT) devices. To date, the software artifacts of our research team have produced reports and datasets that informed additional research, policy debates, and regulators. During the past 2 years, we worked on the problem of modeling and evaluating adaptation strategies based on measurements techniques for IoT devices. All the research experience above resulted in peer-reviewed papers, published in top tier scientific conferences and funded research projects.
@@ -64,7 +59,7 @@ year={2021}
 }
 
 
-* Our project won one of the Top 10 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
+* Our project won one of the Top 5 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
 
