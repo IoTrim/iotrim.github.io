@@ -23,7 +23,7 @@ The list contains 4 columns:
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
 
 ## TEAM
-Our team has extensive experience in the area of privacy for Internet of Things (IoT) devices. To date, the software artifacts of our research team have produced reports and datasets that informed additional research, policy debates, and regulators. During the past 2 years, we worked on the problem of modeling and evaluating adaptation strategies based on measurements techniques for IoT devices. All the research experience above resulted in peer-reviewed papers, published in top tier scientific conferences and funded research projects.
+IoTrim has been developed by researchers at Imperial College London and Northeastern University, and leverages advanced privacy preserving AI techniques for creating the trim lists. The protection techniques behind IoTrimmer have been reviewed by experts in top academic institutions, resulting in research papers published in top tier scientific conferences and EU/US funded research projects. Our team won important awards and our research has been featured in the Financial Times, New York Times, USA Today and the BBC. 
 
 * <a href="https://haddadi.github.io/">Professor Hamed Haddadi</a> is an Associate Professor in Human-Centred Systems and the Director of Postgraduate Studies at the Dyson School of Design Engineering, at the Faculty of Engineering at Imperial College London. He is a Security Science Fellow of the Institute for Security Science and Technology and of the Data Science Institute. He is also a Visiting Professor at Brave Software where he works on developing privacy-preserving protocols.
  
