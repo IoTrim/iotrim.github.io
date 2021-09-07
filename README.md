@@ -12,6 +12,7 @@ This site contains a <a href="https://github.com/IoTrim/iotrimlist">set of non-r
 IoT devices offer multiple types of functionality; however, for this list, we select only the main functions for every IoT device under test. However, from preliminary experiments we have seen that most devices use the same destinations for different functions. 
 
 <a href="https://github.com/IoTrim/iotrimlist/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/iotrim.png" width="500"/></a>
+
 The list contains 4 columns: 
 
 * device: the device under test
