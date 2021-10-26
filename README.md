@@ -31,13 +31,13 @@ This site contains a <a href="https://github.com/IoTrim/IoTrigger"> command-line
      
 ## IoTrimmer
 
-This site contains a <a href="https://github.com/IoTrim/IoTrimmer"> a version of IoTrimmer</a>. It comes preconfigured with the deny-listing blocking strategy and uses the blocklist of 62 non-required desti- nations we found for our set of 31 IoT devices. 
+This site contains a <a href="https://github.com/IoTrim/IoTrimmer"> version of IoTrimmer</a>. It comes preconfigured with the deny-listing blocking strategy and uses the blocklist of 62 non-required desti- nations we found for our set of 31 IoT devices. 
 When a new device is connected to IoTrimmer its MAC address appears on the list.
 The user then chooses which device is connected to IoTrimmer. The blocklist (IoTrim) is regularly updated from the Internet and automatically applied to all connected devices. Users can click on a device to display the list of blocked destinations.
      
 ## AI Engine
 
-This site contains a <a href="https://github.com/IoTrim/ML"> a version of the AI Engine</a>. The IoTrim AI Engine allows to build and re-train ML models for device identification.
+This site contains a <a href="https://github.com/IoTrim/ML"> version of the AI Engine</a>. The IoTrim AI Engine allows to build and re-train ML models for device identification.
 
 ## TEAM
 IoTrim has been developed by researchers at Imperial College London and Northeastern University, and leverages advanced privacy preserving AI techniques for creating the trim lists. The protection techniques behind IoTrimmer have been reviewed by experts in top academic institutions, resulting in research papers published in top tier scientific conferences and EU/US funded research projects. Our team won important awards and our research has been featured in the Financial Times, New York Times, USA Today and the BBC. 
