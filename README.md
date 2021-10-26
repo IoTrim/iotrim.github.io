@@ -6,6 +6,8 @@ IoTrim components run on the home router, and can be controlled through a smartp
 
 IoTrim prevents violations of individuals’ privacy by intercepting and blocking information exposure to third-party analytics and service providers, most of which are collecting personal data unbeknownst to the user and potentially breaking privacy regulations such as the GDPR and CCPA.
 
+The design of the testing system (IoTrigger), the blocking system (IoTrimmer), the AI Engine, and the IoTrim list have now been released! 
+
 ## IoTrim List
 
 This site contains a <a href="https://github.com/IoTrim/iotrimlist">set of non-required destinations list</a> from 31 consumer IoT devices and the software for producing the list. The list is created using a methodology for determining non-required destinations by automatically executing IoT device functions and determining the execution outcome while blocking selected destinations.
@@ -22,6 +24,20 @@ The list contains 4 columns:
      - Support party: destination that is not a first party and is responsible for providing remote computation.
      - Third party: destination that is not a First party or a Support party. 
 * grouped: to facilitate analysis and streamline blocklists, we developed a strategy to group destinations thet use different DNS names and IP addresses for each replica. 
+
+## IoTrigger
+
+This site contains a <a href="https://github.com/IoTrim/IoTrigger"> command-line version of IoTrigger, which includes a library of probes and triggers scripts that support the IoT devices we tested. IoTrigger manages the lifecycle of functionality experiments for each device, including the invocation of user-provided trigger and probe scripts, and to finally produce (non-)required destination lists.
+     
+## IoTrimmer
+
+This site contains a <a href="https://github.com/IoTrim/IoTrimmer"> a version of IoTrimmer. It comes preconfigured with the deny-listing blocking strategy and uses the blocklist of 62 non-required desti- nations we found for our set of 31 IoT devices. 
+When a new device is connected to IoTrimmer its MAC address appears on the list.
+The user then chooses which device is connected to IoTrimmer. The blocklist (IoTrim) is regularly updated from the Internet and automatically applied to all connected devices. Users can click on a device to display the list of blocked destinations.
+     
+## AI Engine
+
+This site contains a <a href="https://github.com/IoTrim/ML"> a version of the AI Engine. The IoTrim AI Engine allows to build and re-train ML models for device identification.
 
 ## TEAM
 IoTrim has been developed by researchers at Imperial College London and Northeastern University, and leverages advanced privacy preserving AI techniques for creating the trim lists. The protection techniques behind IoTrimmer have been reviewed by experts in top academic institutions, resulting in research papers published in top tier scientific conferences and EU/US funded research projects. Our team won important awards and our research has been featured in the Financial Times, New York Times, USA Today and the BBC. 
