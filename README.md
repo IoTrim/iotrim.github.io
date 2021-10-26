@@ -31,7 +31,7 @@ This site contains a <a href="https://github.com/IoTrim/IoTrigger"> command-line
      
 ## IoTrimmer
 
-This site contains a <a href="https://github.com/IoTrim/IoTrimmer"> version of IoTrimmer</a>. It comes preconfigured with the deny-listing blocking strategy and uses the blocklist of 62 non-required desti- nations we found for our set of 31 IoT devices. 
+This site contains a <a href="https://github.com/IoTrim/IoTrimmer"> version of IoTrimmer</a>. It comes preconfigured with the deny-listing blocking strategy and uses the blocklist of 62 non-required destinations we found for our set of 31 IoT devices. 
 When a new device is connected to IoTrimmer its MAC address appears on the list.
 The user then chooses which device is connected to IoTrimmer. The blocklist (IoTrim) is regularly updated from the Internet and automatically applied to all connected devices. Users can click on a device to display the list of blocked destinations.
      
