@@ -52,6 +52,8 @@ IoTrim has been developed by researchers at Imperial College London and Northeas
 
 
 ## NEWS
+* Our paper “Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards” has been conditionally accepted to the 44th IEEE Symposium on Security and Privacy (Oakland 2023). More details [here.](https://iotrim.github.io/safeguards.html)
+
 * Our paper, describing the methodology and results, “Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
 <a href="https://petsymposium.org/2021"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/></a>
