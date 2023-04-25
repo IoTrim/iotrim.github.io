@@ -54,7 +54,7 @@ IoTrim leverages advanced privacy preserving AI techniques for creating the trim
 ## NEWS
 * Our paper “Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards” has been conditionally accepted to the 44th IEEE Symposium on Security and Privacy (Oakland 2023). More details [here.](https://iotrim.github.io/safeguards.html)
 
-* Our paper, describing the methodology and results, “Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
+* Our paper, describing the methodology and results, “Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>. More details [here.](https://moniotrlab.ccis.neu.edu/publications/pets21/)
 
 * Our project won one of the Top 5 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
