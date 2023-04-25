@@ -56,30 +56,6 @@ IoTrim leverages advanced privacy preserving AI techniques for creating the trim
 
 * Our paper, describing the methodology and results, “Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic” has been accepted to the Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2021/paperlist.php">(PETS 2021)</a>.
 
-<a href="https://petsymposium.org/2021"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/pets.png" width="500"/></a>
-
-<u>About this publication</u>
-
--- Title: Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic
-
--- Authors: Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London), and David Choffnes (Northeastern University)
-
--- Download Full Text (<a href="https://arxiv.org/abs/2105.05162">PDF</a>)
-
--- Citation:
-@inproceedings{mandalari-pets21,
-
-title={Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic},
-
-author={Mandalari, Anna Maria and Dubois, Daniel J.and Kolcun, Roman and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
-
-booktitle={Proc. of the Privacy Enhancing Technologies Symposium (PETS)},
-
-year={2021}
-
-}
-
-
 * Our project won one of the Top 5 spots in the <a href="https://telekom-challenge.com/">Telekom Challenge</a> amongst 180 startup teams around the world. 
 
 <a href="https://telekom-challenge.com/"><img src="https://raw.githubusercontent.com/IoTrim/iotrimlist/master/telekom.png" width="500"/></a>
